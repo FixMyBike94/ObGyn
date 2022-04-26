@@ -1,0 +1,180 @@
+* {
+    font-family: "Apercu", Arial, sans-serif;
+  }
+
+  body {
+    background-color: #10162F;
+    margin: 0;
+  }
+
+  header {
+    background-color: #333;
+  }
+
+  h1 {
+    text-align: left;
+    font-size: 65px;
+    margin: 110px 200px 30px 210px;
+    color:#66C4FF;
+  }
+
+  h2 {
+    color:#a1dafd;
+    margin-left: 210px;
+    font-size: 30px;
+    max-width: 750px;
+  }
+
+  p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.6px;
+    max-width: 750px;
+    margin-left: 210px;
+    color: white;
+  }
+
+  ol {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30.6px;
+    max-width: 730px;
+    margin-left: 210px;
+    color:white;
+  }
+
+  ol, li{
+}
+
+  iframe {
+    margin-left: 210px;
+  }
+
+  .burns-marshall {
+    height: 550px;
+    width: 500px;
+    margin-left: 210px;
+  }
+
+  .correctingBreech {
+    height: 550px;
+    width: 420px;
+    margin-left: 250px;
+  }
+
+  .moreMethods {
+    height: 550px;
+    width: 420px;
+    margin-left: 210px;
+    margin-bottom: 15px;
+  }
+
+  .lovsett {
+    height: 425px;
+    width: 850px;
+    margin-left: 210px;
+  }
+
+  .caption {
+    text-align: left;
+    font-weight: bold;
+    margin: 20px 210px;
+  }
+
+  .below {
+    text-align: left;
+    margin: 0px 0px 25px 210px;
+  }
+
+  a {
+    text-decoration: none;
+    cursor:pointer;
+    color:white;
+  }
+
+  a:hover {
+    color: yellow;
+  }
+
+  index:hover {
+    color: yellow;
+  }
+
+  .navBar {
+      list-style-type: none;
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: black;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      height: 52px;
+      border-bottom: 1px solid gray;
+      z-index: 1;
+  }
+
+  .navBar li {
+    float: left;
+  }
+  
+  .navBar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px 16px;
+    text-decoration: none;
+  }
+
+  .home {
+    margin-left: 30px;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  .navBar li a:hover {
+    color: yellow;
+  }
+
+  .sideText2 {
+    max-width: 400px;
+    float: right;
+    position: relative;
+    right: 390px;
+   }
+
+   .small {
+     line-height: normal;
+   }
+
+   video {
+    margin-left: 200px;
+   }
+
+   .sidebar {
+    height: 100%;
+    width: 170px;
+    position: fixed;
+    top: 30px;
+    left: 0;
+    padding-top: 80px;
+    background-color: #66C4FF;
+    }
+    
+    .sidebar div {
+    padding: 10px;
+    font-size: 19px;
+    display: block;
+    color: #262629;
+    }
+
+    .sidebar a {
+      color: #262629;
+    }
+    
+    .sidebar a:hover {
+      color: white;
+    }
+
+
+ 
